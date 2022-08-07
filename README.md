@@ -37,7 +37,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.elome.kingsleydavid.tech/"><img alt="Website" src="https://img.shields.io/badge/Website-elome.kingsleydavid.tech-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://elome.kingsleydavid.tech/"><img alt="Website" src="https://img.shields.io/badge/Website-elome.kingsleydavid.tech-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/elomedz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-elomedz-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:dzidzoamenuelome@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dzidzoamenuelome@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
